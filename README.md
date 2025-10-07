@@ -18,4 +18,4 @@ This repository contains two sets of exercises to help you practice and master G
 
 1. Clone this repository to your local machine:  
 ```bash
-git clone <repository_url>
+git clone https://github.com/yunusgrgz1/git-basic-intermediate-exercises
